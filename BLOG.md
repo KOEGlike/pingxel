@@ -3,7 +3,7 @@
 
 I'm again showing how good I am at naming things.
 
-![wall mounted matric](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e008183fc50a0189_pxl_20251226_085102902-ezgif.com-video-to-webp-converter-1.webp)
+![wall mounted matric](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/e008183fc50a0189_pxl_20251226_085102902-ezgif.com-video-to-webp-converter-1.webp)
 
 ## What is it?
 
@@ -35,4 +35,4 @@ Some day I may extend the matrix to be the originally planned 10x10 variant
 
 ## Me in LA at supercon
 
-![me](https://hc-cdn.hel1.your-objectstorage.com/s/v3/09bb14006d6e19b4_pxl_20251102_015735810.jpg)
+![me](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/09bb14006d6e19b4_pxl_20251102_015735810.jpg)
